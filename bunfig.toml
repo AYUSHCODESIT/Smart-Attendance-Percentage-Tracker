@@ -1,0 +1,4 @@
+[install]
+cache = "C:/Users/ayush/AppData/Local/Temp/buncache"
+backend = "copyfile"
+exact = true
